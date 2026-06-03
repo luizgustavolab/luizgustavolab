@@ -6,7 +6,7 @@ Sou o Luiz Gustavo, apaixonado por tecnologia, inovação e construção de solu
 
 I'm Luiz Gustavo, passionate about technology, innovation, and building digital solutions. A Brazilian lawyer by background and beekeeper by hobby, my journey sits at the intersection of legal reasoning and software engineering. Today, I apply analytical thinking, attention to detail, and systems-oriented problem solving to build scalable applications, APIs, and digital products.
 
-## 🚀 Tech Stack & Architecture
+## Tech Stack & Architecture
 
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,ts,js,react,angular,nodejs,nestjs,html,css,tailwind,postgres,mysql,mongodb,redis,supabase,docker,git,github,vscode,vercel" />
 
