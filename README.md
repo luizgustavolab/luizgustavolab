@@ -19,3 +19,5 @@ I'm Luiz Gustavo, passionate about technology, innovation, and building digital 
 **Architecture & Patterns:** Layered Architecture • Service-Oriented Architecture • Monorepos • Separation of Concerns • Strategy Pattern • Template Method Pattern
 
 **Quality & Workflow:** Git • GitHub • ESLint • Prettier • NPM Workspaces • Conventional Commits
+
+
